@@ -1,0 +1,123 @@
+{
+  "formatVersion": 1,
+  "id": "rodaje-fuentes",
+  "version": "1.0.0",
+  "kind": "content",
+  "name": "Fuentes",
+  "description": "10 familias libres (SIL Open Font License 1.1) para títulos y subtítulos, sin modificar y con su licencia: Inter, Montserrat, Oswald, Lora, Anton, Caveat, JetBrains Mono, Nunito, Atkinson Hyperlegible Next y Noto Sans. Las usan los estilos de rodaje-titulos.",
+  "author": "Dathinel",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/Dathinel/rodaje-fuentes",
+  "apps": [
+    "rodaje"
+  ],
+  "items": [
+    {
+      "id": "inter",
+      "kind": "font",
+      "name": "Inter",
+      "license": "OFL-1.1",
+      "description": "Sans neutra para pantalla, de fina a negra, con cursiva.",
+      "files": [
+        "fuentes/inter/Inter-VariableFont_opsz,wght.ttf",
+        "fuentes/inter/Inter-Italic-VariableFont_opsz,wght.ttf"
+      ]
+    },
+    {
+      "id": "montserrat",
+      "kind": "font",
+      "name": "Montserrat",
+      "license": "OFL-1.1",
+      "description": "Sans geométrica y ancha, de fina a negra, con cursiva.",
+      "files": [
+        "fuentes/montserrat/Montserrat-VariableFont_wght.ttf",
+        "fuentes/montserrat/Montserrat-Italic-VariableFont_wght.ttf"
+      ]
+    },
+    {
+      "id": "oswald",
+      "kind": "font",
+      "name": "Oswald",
+      "license": "OFL-1.1",
+      "description": "Condensada para titulares y rótulos.",
+      "files": [
+        "fuentes/oswald/Oswald-VariableFont_wght.ttf"
+      ]
+    },
+    {
+      "id": "lora",
+      "kind": "font",
+      "name": "Lora",
+      "license": "OFL-1.1",
+      "description": "Serif de texto, para citas y títulos clásicos, con cursiva.",
+      "files": [
+        "fuentes/lora/Lora-VariableFont_wght.ttf",
+        "fuentes/lora/Lora-Italic-VariableFont_wght.ttf"
+      ]
+    },
+    {
+      "id": "anton",
+      "kind": "font",
+      "name": "Anton",
+      "license": "OFL-1.1",
+      "description": "Display gruesa y estrecha, para impacto.",
+      "files": [
+        "fuentes/anton/Anton-Regular.ttf"
+      ]
+    },
+    {
+      "id": "caveat",
+      "kind": "font",
+      "name": "Caveat",
+      "license": "OFL-1.1",
+      "description": "Manuscrita suelta, como escrita con rotulador.",
+      "files": [
+        "fuentes/caveat/Caveat-VariableFont_wght.ttf"
+      ]
+    },
+    {
+      "id": "jetbrains-mono",
+      "kind": "font",
+      "name": "JetBrains Mono",
+      "license": "OFL-1.1",
+      "description": "Monoespaciada, para máquina de escribir o código, con cursiva.",
+      "files": [
+        "fuentes/jetbrains-mono/JetBrainsMono-VariableFont_wght.ttf",
+        "fuentes/jetbrains-mono/JetBrainsMono-Italic-VariableFont_wght.ttf"
+      ]
+    },
+    {
+      "id": "nunito",
+      "kind": "font",
+      "name": "Nunito",
+      "license": "OFL-1.1",
+      "description": "Sans redondeada y amable, con cursiva.",
+      "files": [
+        "fuentes/nunito/Nunito-VariableFont_wght.ttf",
+        "fuentes/nunito/Nunito-Italic-VariableFont_wght.ttf"
+      ]
+    },
+    {
+      "id": "atkinson-hyperlegible-next",
+      "kind": "font",
+      "name": "Atkinson Hyperlegible Next",
+      "license": "OFL-1.1",
+      "description": "Pensada para leerse bien con poca visión: letras que no se confunden. Buena para subtítulos.",
+      "files": [
+        "fuentes/atkinson-hyperlegible-next/AtkinsonHyperlegibleNext-VariableFont_wght.ttf",
+        "fuentes/atkinson-hyperlegible-next/AtkinsonHyperlegibleNext-Italic-VariableFont_wght.ttf"
+      ]
+    },
+    {
+      "id": "noto-sans",
+      "kind": "font",
+      "name": "Noto Sans",
+      "license": "OFL-1.1",
+      "description": "Sans de cobertura amplia (latino extendido, griego y cirílico), con anchos y cursiva. Para subtítulos en cualquier idioma europeo.",
+      "files": [
+        "fuentes/noto-sans/NotoSans-VariableFont_wdth,wght.ttf",
+        "fuentes/noto-sans/NotoSans-Italic-VariableFont_wdth,wght.ttf"
+      ]
+    }
+  ]
+}
