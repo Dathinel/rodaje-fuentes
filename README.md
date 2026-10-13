@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#licencia"><img src="https://img.shields.io/badge/fuentes-OFL_1.1-E8833A?style=flat-square&labelColor=1D1D1D" alt="Fuentes OFL 1.1"></a>
   <a href="https://github.com/Dathinel/rodaje-fuentes/releases/latest"><img src="https://img.shields.io/github/v/release/Dathinel/rodaje-fuentes?style=flat-square&labelColor=1D1D1D&color=E8833A&label=versi%C3%B3n" alt="Última versión"></a>
+  <img src="https://img.shields.io/badge/contenido-10_familias-E8833A?style=flat-square&labelColor=1D1D1D" alt="Contenido: 10 familias">
   <img src="https://img.shields.io/badge/formato-.paquete-E8833A?style=flat-square&labelColor=1D1D1D" alt="Formato .paquete">
   <a href="https://github.com/Dathinel/rodaje"><img src="https://img.shields.io/badge/para-Rodaje-E8833A?style=flat-square&labelColor=1D1D1D" alt="Para Rodaje"></a>
 </p>
@@ -32,7 +33,7 @@ Todas son variables (un archivo con todos los pesos, y otro con la cursiva) salv
 
 ## Instalar en Rodaje
 
-En Rodaje, Complementos → Instalar lo baja, comprueba su firma y lo instala. A mano: descarga `rodaje-fuentes-<versión>.paquete` de las [releases](https://github.com/Dathinel/rodaje-fuentes/releases) y, en Rodaje, usa «Instalar desde archivo…» en Complementos o suéltalo sobre la biblioteca. Ocupa unos 5 MB.
+En Rodaje, Complementos → Instalar lo baja, comprueba su firma y lo instala. A mano: descarga `rodaje-fuentes-<versión>.paquete` de las [releases](https://github.com/Dathinel/rodaje-fuentes/releases) y, en Rodaje, usa «Instalar desde archivo…» en Complementos o suéltalo sobre la biblioteca. Ocupa unos 5 MB. Más detalles en la [guía de complementos](https://github.com/Dathinel/rodaje/blob/main/docs/guia/complementos.md).
 
 ## Construir el paquete
 
